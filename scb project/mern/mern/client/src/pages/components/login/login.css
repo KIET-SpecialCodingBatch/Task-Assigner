@@ -1,0 +1,70 @@
+ .App {
+    display: flex;
+    width: 100vw;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    background: #1b75fd;
+    font-family: Arial, sans-serif;
+}
+
+
+.login {
+    width: 400px;
+    background: #d61a1a;
+    border: 1px solid #1862d1;
+    box-shadow: 0 2px 4px rgb(0 0 0 / 10%), 0 8px 16px rgb(0 0 0 / 10%);
+    border-radius: 8px;
+    padding: 1rem;
+    align-items: center;
+    text-align: center;
+}
+
+.login > input {
+    border-radius: 8px;
+    border: 2px solid #2876ec;
+    outline: none;
+    color: #1d2129;
+    margin: 0.5rem 0;
+    padding: 0.5rem 0.75rem;
+    width: 92%;
+    font-size: 1rem;
+}
+
+.login > .button {
+    background: #1877f2;
+    border: 1px solid #1877f2;
+    color: #fff;
+    font-size: 1.25rem;
+    padding: 0.5rem;
+    margin: 0.5rem 0;
+    border-radius: 8px;
+    outline: none;
+    cursor: pointer;
+} 
+.login{
+    background-color: rgb(104, 174, 232);
+}
+.App{
+    background-color: #1877f2;
+}
+.button{
+    
+        border: 5px solid transparent;
+        background: linear-gradient(#fff,#fff)padding-box,
+        linear-gradient(to right,#d60c0c,#1e17ac)border-box;
+
+
+} 
+ /* .b1{
+    background:url( "adm.jpeg" ); 
+    background-size: auto;
+    background-repeat: no-repeat;
+    background-size: 150px 150px;
+ }
+.b2{
+    background:url( "userr.jpeg" ); 
+    background-size: auto;
+    background-repeat: no-repeat;
+    background-size: 150px 150px;
+} */

@@ -1,0 +1,78 @@
+.App {
+    display: flex;
+    width: 500vw;
+    height: 5000vh;
+    justify-content: center;
+    align-items: center;
+    background: #0e2e5e;
+    font-family: Arial, sans-serif;
+}
+
+
+.buttonstyle {
+
+    /*border: 1px solid #1561d3;*/
+    
+    border-radius: 10px;
+    padding: 1rem;
+    align-items: right;
+    text-align: right;
+}
+
+.buttonstyle > input {
+    border-radius: 50px;
+    border: 10px solid #1462d7;
+    outline: none;
+    color: #1156e1;
+    margin: 0.5rem 0;
+    padding: 0.5rem 0.75rem;
+    width: 92%;
+    font-size: 1rem;
+}
+
+.buttonstyle > {
+    background: #1877f2;
+    border: 1px solid #1877f2;
+    color: #c21313;
+    font-size: 1.25rem;
+    padding: 0.5rem;
+    margin: 0.5rem 0;
+    border-radius: 8px;
+    outline: none;
+    cursor: pointer;
+}
+
+.b1{
+    padding: 30px;
+    border-radius: 2px solid rgb(224, 23, 23);
+     color: #b47216; 
+     background-image: url("https://images.search.yahoo.com/search/images;_ylt=Awr994Rf1N9jtrMsggRXNyoA;_ylu=Y29sbwNncTEEcG9zAzEEdnRpZAMEc2VjA3Nj?p=user+image&type=E211US885G0&ei=UTF-8&fr=mcafee&th=112.9&tw=112.9&imgurl=http%3A%2F%2Fcdn.onlinewebfonts.com%2Fsvg%2Fimg_299586.png&rurl=https%3A%2F%2Fwww.onlinewebfonts.com%2Ficon%2F299586&size=39KB&name=Circle+User+Svg+Png+Icon+Free+Download+%28%23299586%29+-+OnlineWebFonts.COM&oid=10&h=980&w=980&turl=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.HAlzz7_SUXjXKwsKkyBmJQHaHa%26pid%3DApi%26rs%3D1%26c%3D1%26qlt%3D95%26w%3D112%26h%3D112&tt=Circle+User+Svg+Png+Icon+Free+Download+%28%23299586%29+-+OnlineWebFonts.COM&sigr=wKE0zwPxtY2r&sigit=dvlKARagm6Rp&sigi=uAx6oux_daqX&sign=f.sjwsGyweJH&sigt=f.sjwsGyweJH");
+}
+body{
+    background-color: #7be1e5;
+    border-radius: 3px;
+    background-image: url("http://www.missionmindedmanagement.com/wp-content/uploads/2008/08/taskassignment.jpg");
+}
+.b2{
+    padding: 30px;
+    border-radius: 2px solid rgb(224, 23, 23);
+    color: #b47216;
+    text-decoration-color: #e2cf3e;}
+.b1{
+    border: 5px solid transparent;
+    background: linear-gradient(#fff,#fff)padding-box,
+    linear-gradient(to right,#d60c0c,#1e17ac)border-box;
+
+}
+.b2{
+    border: 5px solid transparent;
+    background: linear-gradient(#fff,#fff)padding-box,
+    linear-gradient(to right,#d60c0c,#1e17ac)border-box;
+
+}
+.b1{
+    border: 5px solid transparent;
+    background: linear-gradient(#fff,#fff)padding-box,
+    linear-gradient(to right,#d60c0c,#1e17ac)border-box;
+
+}
